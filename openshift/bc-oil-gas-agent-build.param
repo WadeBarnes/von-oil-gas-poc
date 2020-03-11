@@ -6,7 +6,7 @@
 NAME=bc-oil-gas-agent
 APP_NAME=bc-oil-and-gas-agent
 APP_GROUP=bc-oil-and-gas-agent
-GIT_REPO_URL=https://github.com/bcgov/indy-catalyst.git
+GIT_REPO_URL=https://github.com/hyperledger/aries-vcr.git
 GIT_REF=master
 SOURCE_CONTEXT_DIR=docker/tob-agent
 OUTPUT_IMAGE_TAG=latest
